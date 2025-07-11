@@ -1,0 +1,14 @@
+{
+    "repos": [
+        {
+            "name": "sys-2-credit-backend",
+            "label": "Backend API",
+            "defaultBranch": "main"
+        },
+        {
+            "name": "sys-2-credit-frontend",
+            "label": "Frontend Web",
+            "defaultBranch": "main"
+        }
+    ]
+}
